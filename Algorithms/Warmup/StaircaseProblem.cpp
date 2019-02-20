@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/staircase/problem
+// Problem link: https://www.hackerrank.com/challenges/staircase/problem
 
 #include <bits/stdc++.h>
 

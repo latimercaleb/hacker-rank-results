@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/solve-me-first/problem
+// Problem link: https://www.hackerrank.com/challenges/solve-me-first/problem
 
 #include <cmath>
 #include <cstdio>
