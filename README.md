@@ -7,7 +7,7 @@ In each directory you'll find the code I used for a successful submission and a 
 Files range between C, C++, Java, Python & SQL
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/latimercaleb/hacker-rank-results.svg?colorB=seaweed&label=Commit%20Frequency&style=popout)
-![GitHub top language](https://img.shields.io/github/languages/top/latimercaleb/hacker-rank-results.svg?label=Top%20Language&style=popout)
+![GitHub top language](https://img.shields.io/github/languages/top/latimercaleb/hacker-rank-results.svg?style=popout)
 ![GitHub language count](https://img.shields.io/github/languages/count/latimercaleb/hacker-rank-results.svg?colorB=gold&label=Language%20Count&style=popout)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/latimercaleb/hacker-rank-results.svg?colorB=RebeccaPurple&label=Code%20Size&style=popout)
 
