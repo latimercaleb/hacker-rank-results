@@ -12,7 +12,7 @@ Files range between C, C++, Java, Python & SQL
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/latimercaleb/hacker-rank-results.svg?colorB=RebeccaPurple&label=Code%20Size&style=popout)
 
 ## To-do
-- ~~Add algorithms dir + content~~
+- Add algorithms dir + content
 - Add C++ dir + content
 - Add Java dir + content
 - Add Python dir + content
