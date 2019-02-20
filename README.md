@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.hackerrank.com/Callat"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+[![HackerRankLogo](img/HackerRankLogo.png)](https://www.hackerrank.com/Callat)
 # Hackerrank problems collection
 Working at keeping algorithm and problem solving skills in tact with daily training.
 
