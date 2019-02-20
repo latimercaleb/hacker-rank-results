@@ -12,11 +12,11 @@ class Solution{
             int n = in.nextInt();
 
             int stopFlag = n-1;
-            int exp = 1;
-            int sequenceEntry;
-            while(n != stopFlag){
+            int exp = 0;
+            int sequenceEntry = a;
+            while(exp <= stopFlag){
                 int expResult = (int)Math.pow(2,exp);
-                sequenceEntry = (expResult*b) + a;
+                sequenceEntry = (expResult*b) + sequenceEntry;
                 System.out.printf("%d ", sequenceEntry);
                 exp ++;
                 n--;
